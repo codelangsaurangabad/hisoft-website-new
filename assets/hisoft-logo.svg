@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Hisoft IT Solutions Pvt. Ltd. logo</title>
+  <desc id="desc">Modern Hisoft monogram with connected technology nodes.</desc>
+  <defs>
+    <linearGradient id="g" x1="28" y1="30" x2="210" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f766e"/>
+      <stop offset="0.52" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="208" height="208" rx="44" fill="#ffffff"/>
+  <path d="M68 66h28v42h48V66h28v108h-28v-42H96v42H68V66Z" fill="url(#g)"/>
+  <circle cx="188" cy="61" r="13" fill="#f59e0b"/>
+  <circle cx="188" cy="179" r="13" fill="#0f766e"/>
+  <circle cx="52" cy="120" r="13" fill="#2563eb"/>
+  <path d="M177 69l-27 30M177 171l-27-30M65 120h32" fill="none" stroke="#0f172a" stroke-width="8" stroke-linecap="round" opacity=".18"/>
+</svg>
