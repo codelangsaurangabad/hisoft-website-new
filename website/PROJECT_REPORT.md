@@ -33,10 +33,10 @@ This project is a production-ready static website for Hisoft IT Solutions Pvt. L
 
 ## Public Policy URLs
 
-- `/privacy-policy/`
-- `/terms/`
-- `/refund-policy/`
-- `/data-safety/`
+- `/website/privacy-policy.html`
+- `/website/terms.html`
+- `/website/refund-policy.html`
+- `/website/data-safety.html`
 
 These routes are ready for app listing and compliance submission.
 
@@ -50,34 +50,26 @@ These routes are ready for app listing and compliance submission.
 
 ## Hostinger Deployment
 
-The website is static and does not require Node.js, PHP, database setup or a build server. Upload the contents of the generated `hostinger-build` folder to Hostinger `public_html`.
+The website is static and does not require Node.js, PHP, database setup or a build server. Upload `index.html` and the `website/` folder to Hostinger `public_html`.
 
 Required upload contents:
 
 - `index.html`
-- `about/`
-- `services/`
-- `contact/`
-- `privacy-policy/`
-- `terms/`
-- `refund-policy/`
-- `data-safety/`
-- `help/`
-- `assets/`
-- `robots.txt`
-- `sitemap.xml`
+- `website/`
+
+The website/ folder contains all assets, inner pages, policy pages, sitemap, robots file and project report.
 
 After upload, verify:
 
 - `https://hisofttechnology.com/`
-- `https://hisofttechnology.com/privacy-policy/`
-- `https://hisofttechnology.com/terms/`
-- `https://hisofttechnology.com/refund-policy/`
-- `https://hisofttechnology.com/data-safety/`
+- `https://hisofttechnology.com/website/privacy-policy.html`
+- `https://hisofttechnology.com/website/terms.html`
+- `https://hisofttechnology.com/website/refund-policy.html`
+- `https://hisofttechnology.com/website/data-safety.html`
 
 ## Notes
 
-- The project uses external image URLs from Pexels for some page hero images. For fully offline hosting, download and replace those URLs with local images in `assets/`.
+- The project uses external image URLs from Pexels for some page hero images. For fully offline hosting, download and replace those URLs with local images in `website/assets/`.
 - No personal donation number is present.
 - Privacy Policy is linked in the footer, not the main navbar.
-- Help and FAQ are merged under `/contact/#faq`.
+- Help and FAQ are merged under `/website/contact.html#faq`.

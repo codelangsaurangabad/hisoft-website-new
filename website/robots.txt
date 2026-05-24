@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hisofttechnology.com/website/sitemap.xml
