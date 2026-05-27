@@ -27,6 +27,8 @@ This project is a production-ready static website for Hisoft IT Solutions Pvt. L
 - Dynamic home hero heading with rotating business segments.
 - English and Marathi language switching with human-style Marathi plus common IT English terms.
 - Service cards with relevant PNG images and linked detail sections.
+- School and college management software demo promoted at https://college.hisofttechnology.com/.
+- WhatsApp integration for direct enquiries on 9699139573.
 - Animated but lightweight backgrounds, card effects, dashboard charts and product motion.
 - Footer includes meaningful company content, policy links, support links and Google Maps rating prompt.
 - SEO basics: title tags, descriptions, canonical links, sitemap and robots file.
