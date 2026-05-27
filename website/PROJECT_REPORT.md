@@ -14,6 +14,7 @@ This project is a production-ready static website for Hisoft IT Solutions Pvt. L
 - Service Details: Detailed information for school software, college software, websites, digital marketing, GST billing, ERP, custom software, payment gateway, Android apps, hospital/clinic, petrol pump and business management software.
 - Contact & Help: Company contact details, enquiry form, support buttons and FAQ section.
 - Privacy Policy: Public URL for app and website compliance.
+- TA-DA Tour Master Privacy Policy: App-specific policy for tour details, TA/DA claims, receipts, Firebase/Google login, ads and deletion requests.
 - Terms of Service: Public terms page.
 - Refund Policy: Public refund page.
 - Data Safety: Public data safety declaration page.
@@ -34,6 +35,7 @@ This project is a production-ready static website for Hisoft IT Solutions Pvt. L
 ## Public Policy URLs
 
 - `/website/privacy-policy.html`
+- `/website/ta-da-privacy-policy.html`
 - `/website/terms.html`
 - `/website/refund-policy.html`
 - `/website/data-safety.html`
@@ -63,6 +65,7 @@ After upload, verify:
 
 - `https://hisofttechnology.com/`
 - `https://hisofttechnology.com/website/privacy-policy.html`
+- `https://hisofttechnology.com/website/ta-da-privacy-policy.html`
 - `https://hisofttechnology.com/website/terms.html`
 - `https://hisofttechnology.com/website/refund-policy.html`
 - `https://hisofttechnology.com/website/data-safety.html`
